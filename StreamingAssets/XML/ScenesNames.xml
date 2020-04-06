@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SceneNamesModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<MainMenu>MainMenu</MainMenu>
+	<Game1LevelName1>Game1_Level1</Game1LevelName1>
+	<Game1LevelName2>Game1_Level2</Game1LevelName2>
+	<Game1StartScreen>Game1_StartScreen</Game1StartScreen>
+	<Game1MovingA>Game1_MovingA</Game1MovingA>
+	<Game1MovingB>Game1_MovingB</Game1MovingB>
+	<Game1MovingC>Game1_MovingC</Game1MovingC>
+	<Game2LevelName1>Game2_Level1</Game2LevelName1>
+	<Game2LevelName2>Game2_Level2</Game2LevelName2>
+	<Game2StartScreen>Game2_StartScreen</Game2StartScreen>
+	<Game2MovingA>Game2_MovingA</Game2MovingA>
+	<Game2MovingB>Game2_MovingB</Game2MovingB>
+	<Game2MovingC>Game2_MovingC</Game2MovingC>
+	<Game3LevelName1>Game3_Level1</Game3LevelName1>
+	<Game3LevelName2>Game3_Level2</Game3LevelName2>
+	<Game3StartScreen>Game3_StartScreen</Game3StartScreen>
+	<Game3MovingA>Game3_MovingA</Game3MovingA>
+	<Game3MovingB>Game3_MovingB</Game3MovingB>
+	<Game3MovingC>Game3_MovingC</Game3MovingC>
+</SceneNamesModel>

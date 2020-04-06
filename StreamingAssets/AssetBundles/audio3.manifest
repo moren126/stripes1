@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2878031574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b336a4eaba0b9e54fad4463daf5fb2e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Audio3/Straps and ropes creche Game 3 - resources sound - Sound
+  3.wav
+- Assets/Resources/Audio3/Straps and ropes creche Game 3 - resources sound - Sound
+  2.wav
+- Assets/Resources/Audio3/Straps and ropes creche Game 3 - resources sound - Sound
+  1.wav
+Dependencies: []

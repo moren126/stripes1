@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4266849103
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: moving2
+      Dependencies: {}
+    Info_1:
+      Name: moving3
+      Dependencies: {}
+    Info_2:
+      Name: audio3
+      Dependencies: {}
+    Info_3:
+      Name: audio1
+      Dependencies: {}
+    Info_4:
+      Name: images2
+      Dependencies: {}
+    Info_5:
+      Name: moving1
+      Dependencies: {}
+    Info_6:
+      Name: audio2
+      Dependencies: {}
+    Info_7:
+      Name: images1
+      Dependencies: {}
+    Info_8:
+      Name: images3
+      Dependencies: {}

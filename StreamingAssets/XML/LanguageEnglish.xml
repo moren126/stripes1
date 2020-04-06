@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataForLocalization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<MenuText>Menu</MenuText>
+	<GameNameText1>Stripes</GameNameText1>
+	<GameNameText2>Floor</GameNameText2>
+	<GameNameText3>Ropes</GameNameText3>
+	<StartScreenText1>Colorful stripes</StartScreenText1>
+	<StartScreenText2>Playing floor</StartScreenText2>
+	<StartScreenText3>Colorful ropes</StartScreenText3>
+	<PlayText1></PlayText1>
+	<PlayText2></PlayText2>
+	<PlayText3></PlayText3>
+	<ResourcesText></ResourcesText>
+	<DescriptionText1></DescriptionText1>
+	<DescriptionText2></DescriptionText2>
+	<DescriptionText3></DescriptionText3>
+	<KeyWordsText>Key Words:; preschool, small children,; crawling, quadrupling, walking,; high motor skills, child observation, fun,; sounds, music and movement games</KeyWordsText>
+	<AutorsText>Autors:, Piotr Kaja, dr Agnieszka Masny, Andrzej Peć, Monika Serafin-Chądzyńska, Krzysztof Eran Werber</AutorsText>
+</DataForLocalization>

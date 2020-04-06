@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataForLocalization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<MenuText>Menu</MenuText>
+	<GameNameText1>Paski</GameNameText1>
+	<GameNameText2>Podłoga</GameNameText2>
+	<GameNameText3>Liny</GameNameText3>
+	<StartScreenText1>Kolorowe paski</StartScreenText1>
+	<StartScreenText2>Grająca podłoga</StartScreenText2>
+	<StartScreenText3>Kolorowe liny</StartScreenText3>
+	<PlayText1></PlayText1>
+	<PlayText2></PlayText2>
+	<PlayText3></PlayText3>
+	<ResourcesText></ResourcesText>
+	<DescriptionText1></DescriptionText1>
+	<DescriptionText2></DescriptionText2>
+	<DescriptionText3></DescriptionText3>
+	<KeyWordsText>Słowa klucze:; żłobek, przedszkole, małe dzieci,; czworakowanie, chodzenie,; duża motoryka, obserwacja dziecka, zabawa,; dźwięki, zabawy muzyczno - ruchowe</KeyWordsText>
+	<AutorsText>Autorzy:, Piotr Kaja, dr Agnieszka Masny, Andrzej Peć, Monika Serafin-Chądzyńska, Krzysztof Eran Werber</AutorsText>
+</DataForLocalization>

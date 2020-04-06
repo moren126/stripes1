@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourcesOrderContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<ImagesList1>
+		<Image nameUnique="image1element0">
+			<NameToIdentify>Game1Inactive</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+	</ImagesList1>
+
+	<ImagesList2>
+		<Image nameUnique="image2element0">
+			<NameToIdentify>Game2Inactive</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+	</ImagesList2>
+	
+	<ImagesList3>
+		<Image nameUnique="image3element0">
+			<NameToIdentify>Game3Inactive</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+	</ImagesList3>
+	
+	<MovingList1>
+		<Image nameUnique="Game1_MovingA">
+			<NameToIdentify>Game1_MovingA</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+		<Image nameUnique="Game1_MovingB">
+			<NameToIdentify>Game1_MovingB</NameToIdentify>
+			<ID>1</ID>
+		</Image>
+		<Image nameUnique="Game1_MovingC">
+			<NameToIdentify>Game1_MovingC</NameToIdentify>
+			<ID>2</ID>
+		</Image>
+	</MovingList1>
+
+	<MovingList2>
+		<Image nameUnique="Game2_MovingA">
+			<NameToIdentify>Game2_MovingA</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+		<Image nameUnique="Game2_MovingB">
+			<NameToIdentify>Game2_MovingB</NameToIdentify>
+			<ID>1</ID>
+		</Image>
+		<Image nameUnique="Game2_MovingC">
+			<NameToIdentify>Game2_MovingC</NameToIdentify>
+			<ID>2</ID>
+		</Image>
+	</MovingList2>
+	
+	<MovingList3>
+		<Image nameUnique="Game3_MovingA">
+			<NameToIdentify>Game3_MovingA</NameToIdentify>
+			<ID>0</ID>
+		</Image>
+		<Image nameUnique="Game3_MovingB">
+			<NameToIdentify>Game3_MovingB</NameToIdentify>
+			<ID>1</ID>
+		</Image>
+		<Image nameUnique="Game3_MovingC">
+			<NameToIdentify>Game3_MovingC</NameToIdentify>
+			<ID>2</ID>
+		</Image>
+	</MovingList3>
+
+	<AudioList1>
+		<Audio nameUnique="audio1element0">
+			<NameToIdentify>Straps and ropes creche Game 1 - resources sound - Sound 1</NameToIdentify>
+			<ID>0</ID>
+		</Audio>
+		<Audio nameUnique="audio1element1">
+			<NameToIdentify>Straps and ropes creche Game 1 - resources sound - Sound 2</NameToIdentify>
+			<ID>1</ID>
+		</Audio>
+		<Audio nameUnique="audio1element2">
+			<NameToIdentify>Straps and ropes creche Game 1 - resources sound - Sound 3</NameToIdentify>
+			<ID>2</ID>
+		</Audio>
+	</AudioList1>
+
+	<AudioList2>
+		<Audio nameUnique="audio2element0">
+			<NameToIdentify>Straps and ropes creche Game 2 - resources sound - Sound 1</NameToIdentify>
+			<ID>0</ID>
+		</Audio>
+		<Audio nameUnique="audio2element1">
+			<NameToIdentify>Straps and ropes creche Game 2 - resources sound - Sound 2</NameToIdentify>
+			<ID>1</ID>
+		</Audio>
+		<Audio nameUnique="audio2element2">
+			<NameToIdentify>Straps and ropes creche Game 2 - resources sound - Sound 3</NameToIdentify>
+			<ID>2</ID>
+		</Audio>
+	</AudioList2>
+
+	<AudioList3>
+		<Audio nameUnique="audio3element0">
+			<NameToIdentify>Straps and ropes creche Game 3 - resources sound - Sound 1</NameToIdentify>
+			<ID>0</ID>
+		</Audio>
+		<Audio nameUnique="audio3element1">
+			<NameToIdentify>Straps and ropes creche Game 3 - resources sound - Sound 2</NameToIdentify>
+			<ID>1</ID>
+		</Audio>
+		<Audio nameUnique="audio3element2">
+			<NameToIdentify>Straps and ropes creche Game 3 - resources sound - Sound 3</NameToIdentify>
+			<ID>2</ID>
+		</Audio>
+	</AudioList3>
+	
+</ResourcesOrderContainer>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourcesLanguageContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<ImagesList1>
+		<Image nameUnique="image1element0">
+			<NameToShow>Plansza nieaktywna</NameToShow>
+		</Image>
+	</ImagesList1>
+
+	<ImagesList2>
+		<Image nameUnique="image2element0">
+			<NameToShow>Plansza nieaktywna</NameToShow>
+		</Image>
+	</ImagesList2>
+
+	<ImagesList3>
+		<Image nameUnique="image3element0">
+			<NameToShow>Plansza nieaktywna</NameToShow>
+		</Image>
+	</ImagesList3>
+
+	<MovingList1>
+		<Image nameUnique="Game1_MovingA">
+			<NameToShow>W prawo</NameToShow>
+		</Image>
+		<Image nameUnique="Game1_MovingB">
+			<NameToShow>W lewo</NameToShow>
+		</Image>
+		<Image nameUnique="Game1_MovingC">
+			<NameToShow>W obie strony</NameToShow>
+		</Image>
+	</MovingList1>
+
+	<MovingList2>
+		<Image nameUnique="Game2_MovingA">
+			<NameToShow>W prawo</NameToShow>
+		</Image>
+		<Image nameUnique="Game2_MovingB">
+			<NameToShow>W lewo</NameToShow>
+		</Image>
+		<Image nameUnique="Game2_MovingC">
+			<NameToShow>W obie strony</NameToShow>
+		</Image>
+	</MovingList2>
+	
+	<MovingList3>
+		<Image nameUnique="Game3_MovingA">
+			<NameToShow>W prawo</NameToShow>
+		</Image>
+		<Image nameUnique="Game3_MovingB">
+			<NameToShow>W lewo</NameToShow>
+		</Image>
+		<Image nameUnique="Game3_MovingC">
+			<NameToShow>W obie strony</NameToShow>
+		</Image>
+	</MovingList3>
+
+	<AudioList1>
+		<Audio nameUnique="audio1element0"> 
+			<NameToShow>Dźwięk 1</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio1element1"> 
+			<NameToShow>Dźwięk 2</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio1element2"> 
+			<NameToShow>Dźwięk 3</NameToShow>
+		</Audio>
+	</AudioList1>
+
+	<AudioList2>
+		<Audio nameUnique="audio2element0"> 
+			<NameToShow>Dźwięk 1</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio2element1"> 
+			<NameToShow>Dźwięk 2</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio2element2"> 
+			<NameToShow>Dźwięk 3</NameToShow>
+		</Audio>
+	</AudioList2>
+
+	<AudioList3>
+		<Audio nameUnique="audio3element0"> 
+			<NameToShow>Dźwięk 1</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio3element1"> 
+			<NameToShow>Dźwięk 2</NameToShow>
+		</Audio>
+		<Audio nameUnique="audio3element2"> 
+			<NameToShow>Dźwięk 3</NameToShow>
+		</Audio>
+	</AudioList3>
+
+</ResourcesLanguageContainer>

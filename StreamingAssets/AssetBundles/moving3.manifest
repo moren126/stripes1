@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 533535422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fb56b384647b26ac0862f08e82cf1b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Moving3/Game3_MovingB.png
+- Assets/Resources/Moving3/Game3_MovingA.png
+- Assets/Resources/Moving3/Game3_MovingC.png
+Dependencies: []
